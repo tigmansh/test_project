@@ -1,7 +1,8 @@
 //even odd numbers.
+
 Let num = 10 
-If (num%3==0){
-console.log (“Even Number”);
+If (num%2==0){
+console.log (â€œEven Numberâ€);
 } else {
-Console.log (“Odd Number”);
+Console.log (â€œOdd Numberâ€);
 }
